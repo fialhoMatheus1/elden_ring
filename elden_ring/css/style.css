@@ -1,0 +1,52 @@
+.titulo{
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: center;
+    color: rgb(212, 183, 17)
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: url('../imagens/background.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.trailer{
+    display: block;
+    margin: 0px auto;
+}
+
+.perfil{
+    height: 600px;
+    width: 700px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gold;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+   }
+
+.frase{
+    text-align: center;
+    color: white
+}
+   
+.conteudo{
+    font-size:large;
+    margin: 50px;
+    padding: 10px;
+    text-align: justify;
+    background-color: #00000080;
+    border-width: 1px;
+    border-color: gold;
+    border-style:solid
+}
+
+.titulo2{
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: center;
+    color: white
+}
